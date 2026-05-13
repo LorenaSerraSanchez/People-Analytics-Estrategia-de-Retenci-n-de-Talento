@@ -1,7 +1,7 @@
 ##  Proyecto Final Módulo 3 | Equipo CORE CONSULTING
 📊 ABC CORPORATION
 
-<img width="250" height="850" alt="logo_atomo" src="https://github.com/user-attachments/assets/efdb57ee-6275-45d5-9ec9-01aac565e7dc" />
+<img width="444" height="396" alt="logo_atomo" src="https://github.com/user-attachments/assets/cea9d655-2944-4b10-b1b9-e9f4e811a2e4" />
 
 ## 👥 Nuestro Equipo
 Core Consulting nace de la especialización y el análisis crítico de nuestras integrantes:
